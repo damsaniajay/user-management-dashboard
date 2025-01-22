@@ -1,3 +1,4 @@
+
 # User Management Dashboard
 
 A React-based user management dashboard that allows users to view, add, edit, and delete user details. The application uses JSONPlaceholder API for simulating backend operations and implements local storage for data persistence.
@@ -152,3 +153,5 @@ Uses JSONPlaceholder API (https://jsonplaceholder.typicode.com) for simulating b
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+=======
+# user-management-dashboard
